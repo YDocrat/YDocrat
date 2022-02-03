@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @YDocrat
+- 👀 I’m a pharmacist and, 
+-    I'm interested in pharmacology, pharmacognosy and medicinal chemistry
+- 🌱 I’m currently learning deep learning Deep Learning in a Python environment using Keras, Pytorch and Tensorflow libraries
+- 💞️ I’m looking to collaborate on drug discorvery simulations
+- 📫 You can reach me on docrat.yasien@gmail.com
